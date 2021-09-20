@@ -1,0 +1,1 @@
+[17-Mar-2021 16:06:50 Asia/Tashkent] PHP Fatal error:  Default value for parameters with a class type hint can only be NULL in /home/booknomy/public_html/vendor/formapro/values/src/functions/values.php on line 11
